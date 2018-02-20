@@ -1,0 +1,24 @@
+{
+  "name": "api-mobility",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SOUP-KMITL/api-mobility.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SOUP-KMITL/api-mobility/issues"
+  },
+  "homepage": "https://github.com/SOUP-KMITL/api-mobility#readme",
+  "dependencies": {
+    "cron": "^1.3.0",
+    "mongojs": "^2.5.0",
+    "request": "^2.83.0"
+  }
+}
